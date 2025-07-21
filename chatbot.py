@@ -79,7 +79,7 @@ class Config:
     VIP_LINK = "https://exemplo.com/vip"
     CHECKOUT_START = "https://pay.risepay.com.br/Pay/https://mktdigitalpacks.site/"
     CHECKOUT_PREMIUM = "https://pay.risepay.com.br/Pay/https://mktdigitalpacks.site/"
-    CHECKOUT_EXTREME = "https://pay.risepay.com.br/Pay/https://mktdigitalpacks.site/"
+    CHECKOUT_EXTREME = "https://pay.risepay.com.br/Pay/d4b3cd1535c242d0a1ae6162d3184900"
     CHECKOUT_VIP_1MES = "https://checkout.exemplo.com/vip-1mes"
     CHECKOUT_VIP_3MESES = "https://checkout.exemplo.com/vip-3meses"
     CHECKOUT_VIP_1ANO = "https://checkout.exemplo.com/vip-1ano"

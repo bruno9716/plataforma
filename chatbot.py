@@ -80,9 +80,9 @@ class Config:
     CHECKOUT_START = "https://pay.risepay.com.br/Pay/89e9d10705a8479894d2348a56bbe388"
     CHECKOUT_PREMIUM = "https://pay.risepay.com.br/Pay/15838c80ef374cc099263a1a99952dc7"
     CHECKOUT_EXTREME = "https://pay.risepay.com.br/Pay/d4b3cd1535c242d0a1ae6162d3184900"
-    CHECKOUT_VIP_1MES = "https://checkout.exemplo.com/vip-1mes"
-    CHECKOUT_VIP_3MESES = "https://checkout.exemplo.com/vip-3meses"
-    CHECKOUT_VIP_1ANO = "https://checkout.exemplo.com/vip-1ano"
+    CHECKOUT_VIP_1MES = "https://pay.risepay.com.br/Pay/573c3941f0be408bb05eb099248c98a2"
+    CHECKOUT_VIP_3MESES = "https://pay.risepay.com.br/Pay/b140fa7c43ee4819b4f467b50e9b81ce"
+    CHECKOUT_VIP_1ANO = "https://pay.risepay.com.br/Pay/8c9d25909ad54263911fafaac197f226"
     MAX_REQUESTS_PER_SESSION = 30
     REQUEST_TIMEOUT = 30
     AUDIO_FILE = "https://github.com/bruno9716/plataforma/raw/refs/heads/main/assets/assets_audio_paloma_audio.mp3"
